@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="tooltip_title_font_size">14dp</dimen>
+    <dimen name="tooltip_message_font_size">12dp</dimen>
+
+</resources>
